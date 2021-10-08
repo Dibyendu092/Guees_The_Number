@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Guees The Number</string>
+    <string name="start">SELECT THE DIGIT OF NUMBER FROM BELOW.YOU HAVE TO GIVE 10 CHANCES FOR GUESS THE COREECT NO.THE DIGIT OF THE NO THAT I HAVE AND YOU HAVE TO CHOSE FROM THE BELOW WILL BE SAME</string>
+</resources>
